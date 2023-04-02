@@ -2,26 +2,26 @@
 ## Vue (React) + TypeScript + Bootstrap5 + Java 17 + Spring Security + Spring Boot + Spring Cloud (Apache Consul, Spring Gateway, Spring Openfeign) + Mybatis + Redis + RabbitMQ + ElasticSearch + Maven + Shardingsphere + MySQL + Docker + kubernetes + Jenkins + Git
 
 Frontend Technologies: <br> 
-                        Vue3              ==================================>
-                        TypeScript
-                        Bootstrap5
+                        Vue3              ==================================> <br> 
+                        TypeScript <br> 
+                        Bootstrap5 <br> 
 Backend Technologies: <br> 
-                        Java 17           ==================================>
-                        Spring Boot       ======================================================================>
-                        Spring Cloud      ======================================================================>
-                        Spring Security 
+                        Java 17           ==================================> <br> 
+                        Spring Boot       ======================================================================> <br> 
+                        Spring Cloud      ======================================================================> <br> 
+                        Spring Security  <br> 
 Database Technologies: <br> 
-                        Mybatis           ======================================================================>
-                        Redis             ==================================>
-                        ElasticSearch     ==================================>
-                        MySQL             ======================================================================>
+                        Mybatis           ======================================================================> <br> 
+                        Redis             ==================================> <br> 
+                        ElasticSearch     ==================================> <br>  
+                        MySQL             ======================================================================> <br> 
 Middelware Technologies: <br> 
-                        RabbitMQ          ==================================>
-                        Shardingsphere    ==================================>
-Container Technologies: <br> 
-                        Docker            ==================================>
-                        Kubernetes
+                        RabbitMQ          ==================================> <br> 
+                        Shardingsphere    ==================================> <br> 
+Container Technologies: <br>
+                        Docker            ==================================> <br> 
+                        Kubernetes <br> 
 CI / CD / DevOps: <br> 
-                        Jenkins
-                        Git               ==================================>
-                        Maven             ==================================>
+                        Jenkins <br> 
+                        Git               ==================================> <br> 
+                        Maven             ==================================> <br> 
