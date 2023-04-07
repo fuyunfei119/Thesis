@@ -1,10 +1,9 @@
 # My Thesis
-## Vue (React) + TypeScript + Bootstrap5 + Java 17 + Spring Security + Spring Boot + Spring Cloud (Apache Consul, Spring Gateway, Spring Openfeign) + Mybatis + Redis + RabbitMQ + ElasticSearch + Maven + Shardingsphere + MySQL + Docker + kubernetes + Jenkins + Git
+## Vue (React) + TypeScript + Java 17 + Spring Security + Spring Boot + Spring Cloud (Apache Consul, Spring Gateway, Spring Openfeign) + Mybatis + Redis + RabbitMQ + ElasticSearch + Maven + Shardingsphere + MySQL + Docker + kubernetes + Jenkins + Git
 
 Frontend Technologies: <br> 
                         Vue3              ==================================> <br> 
                         TypeScript <br> 
-                        Bootstrap5 <br> 
 Backend Technologies: <br> 
                         Java 17           ==================================> <br> 
                         Spring Boot       ======================================================================> <br> 
