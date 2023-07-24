@@ -24,3 +24,12 @@ CI / CD / DevOps: <br>
                         Jenkins <br> 
                         Git               ==================================> <br> 
                         Maven             ==================================> <br> 
+
+![image](https://github.com/fuyunfei119/Thesis/assets/59891301/57bfcc9e-2f37-4814-bb6b-b117c56f4025)
+![image](https://github.com/fuyunfei119/Thesis/assets/59891301/0fe44393-79e5-445b-918a-1901e7226f02)
+
+
+
+
+
+
